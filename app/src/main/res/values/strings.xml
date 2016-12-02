@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thirteen Card Smash</string>
+    <string name="single">Singleplayer</string>
+    <string name= "multi">Multiplayer</string>
+    <string name="play">Play</string>
+    <string name ="pass">Pass</string>
+    <string name="menu">Menu</string>
+    <string name ="quit">Quit Game</string>
+    <string name="retgame">Return To Game</string>
+    <string name ="waitingfor">Waiting for : </string>
+</resources>
